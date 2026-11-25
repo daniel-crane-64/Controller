@@ -532,9 +532,9 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../../Downloads/ESP32-Controller-Files2/",
+      "plot": "../../../Downloads/ESP32-Controller-NEWEST/",
       "specctra_dsn": "",
-      "step": "../../../Downloads/ESP32-Controller-Files2/Controller.step",
+      "step": "../../../Downloads/ESP32-Controller-NEWEST/Controller.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
